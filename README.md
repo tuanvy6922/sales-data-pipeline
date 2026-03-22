@@ -1,5 +1,5 @@
 Sales Data Pipeline & Analytics (Data Engineer Project)
-📌 Project Overview
+Project Overview
 
 This project demonstrates an end-to-end data engineering pipeline, where raw sales data is processed, transformed, and stored in a structured data warehouse for analytics.
 
